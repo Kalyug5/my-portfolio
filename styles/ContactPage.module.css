@@ -45,19 +45,25 @@
 
 .form input:focus,
 .form textarea:focus {
-  outline: 1px solid var(--accent-color);
+  outline: 1px solid rgb(47, 255, 172);
 }
 
 .form button {
-  background: var(--accent-color);
-  color: var(--main-bg);
-  border: none;
+  background: var(--main-bg);
+  color: var(--accent-color);
+  border: 2px solid rgb(47, 255, 141);
   cursor: pointer;
   padding: 0.5rem 1rem;
   font-size: 0.9rem;
   font-weight: bold;
   border-radius: 5px;
   text-transform: uppercase;
+}
+
+.form button:hover{
+  
+  color:rgb(32, 153, 228);
+  
 }
 
 .heading {
