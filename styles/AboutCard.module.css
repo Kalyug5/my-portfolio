@@ -80,3 +80,11 @@
   .resume_a{
     text-decoration: none;
   }
+
+  @media screen and (max-width: 600px){
+
+    .edu__content{
+        display: block;
+    }
+    
+  }

@@ -34,3 +34,13 @@
     width: 400px;
     height: 300px;
 }
+
+@media screen and (max-width: 600px){
+    .container{
+        display: block;
+    }
+
+    .leetcode{
+        width: 80%;
+    }
+}
