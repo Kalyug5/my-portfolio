@@ -31,6 +31,6 @@
     "description": "A themeable and developer-centric portfolio based on the VSCode",
     "tags": ["next", "css-modules"],
     "source_code": "https://github.com/Kalyug5/My-Portfolio",
-    "demo": "/"
+    "demo": "https://priyanshu-mishra-portfolio.vercel.app"
   }
 ]
