@@ -5,7 +5,8 @@
     "image": "/banker.webp",
     "description": "A platform for user to keep track on their monthly and yearly expenses",
     "tags": ["css", "react"],
-    "source_code": "https://github.com/Kalyug5/MyExpense-React.Js"
+    "source_code": "https://github.com/Kalyug5/MyExpense-React.Js",
+    "demo":null
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "image": "/images.jpeg",
     "description": "A Websites where many different users can sign-up and can share there views on particular topic through posts and also can comment their opinion into others posts",
     "tags": ["next", "github", "prisma", "typeScript", "OAuth", "tailwind"],
-    "source_code": "https://github.com/Kalyug5/Discussion-Web"
+    "source_code": "https://github.com/Kalyug5/Discussion-Web",
+    "demo":null
   },
   {
     "id": 3,
