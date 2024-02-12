@@ -9,6 +9,7 @@
     display: flex;
     justify-content:space-around;
     width: 100%;
+    flex-wrap: wrap;
 }
 
 .leetcode{
@@ -19,6 +20,7 @@
     cursor: pointer;
     margin: 0.25rem;
     padding: 0.5rem;
+    flex-wrap: wrap;
 }
 
 .leetcode:hover{
@@ -31,8 +33,8 @@
 
 .leet_cont{
     margin-top: 0.5rem;
-    width: 400px;
-    height: 300px;
+    /* width: 400px;
+    height: 300px; */
 }
 
 @media screen and (max-width: 600px){
