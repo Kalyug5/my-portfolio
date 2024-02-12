@@ -93,5 +93,9 @@
     .intro{
       display: block;
     }
+
+    .cardContainer{
+      display: block;
+    }
     
   }
