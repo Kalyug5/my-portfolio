@@ -86,7 +86,7 @@
   @media screen and (max-width: 600px){
 
     .edu__content{
-        display: flex;
+        display: block;
     }
     
   }
