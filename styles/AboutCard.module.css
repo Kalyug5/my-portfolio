@@ -91,7 +91,7 @@
     }
 
     .intro{
-      width: 80%;
+      display: block;
     }
     
   }
