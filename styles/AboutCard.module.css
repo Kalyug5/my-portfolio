@@ -9,7 +9,7 @@
     display: flex;
     justify-content: space-between;
     margin: 0.5rem 0.5rem;
-    flex-wrap: wrap;
+    scrollbar-width: thin;
     background: var(--article-bg);
     border-radius: 5px;
 
