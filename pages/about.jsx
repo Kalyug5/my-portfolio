@@ -17,16 +17,16 @@ const AboutPage = () => {
         </div>
       </div>
       <div className={styles.intro}>
-        Hello,I am Priyanshu Mishra,a final-year engineering student at JSS
-        Academy of Technical Education,Bangalore.Currently pursuing a Bachelor's
-        degree in Information Science and Engineering,I maintain a strong
-        academic record with a current CGPA of 9.2. My technical expertise spans
-        a wide range, including proficiency in React.js,Next.js,Node.js,both
-        NoSQL and SQL databases,Docker,Kubernetes,Java,as well as a keen
-        understanding of problem-solving methodologies.Additionally,I have
-        hands-on experience in developing and implementing RESTful APIs.I am
-        passionate about leveraging my skills to contribute effectively in
-        dynamic and challenging environments.
+        Hello,I am Priyanshu Mishra,a engineering student at JSS Academy of
+        Technical Education,Bangalore.Currently pursuing a Bachelor's degree in
+        Information Science and Engineering,I maintain a strong academic record
+        with a current CGPA of 9.3. My technical expertise spans a wide range,
+        including proficiency in React.js,Next.js,Node.js,GoLang,both NoSQL and
+        SQL databases,Docker,Kubernetes,Java,as well as a keen understanding of
+        problem-solving methodologies.Additionally,I have hands-on experience in
+        developing and implementing RESTful APIs.I am passionate about
+        leveraging my skills to contribute effectively in dynamic and
+        challenging environments.
       </div>
       <p className={styles.edu}>My Education Journey!</p>
       <div className={styles.edu__content}>
@@ -50,10 +50,7 @@ const AboutPage = () => {
         </div>
         <div className={styles.junior}>
           <p className={styles.sub_heading}>JSSATE Bengaluru</p>
-          <div>
-            Currently, I'm final year student doing Bachelor of Engineering in
-            Information Science and Engineering
-          </div>
+          <div>I'm a 2024 batch B.E student</div>
           <p>
             CGPA->><i>9.275</i>
           </p>
