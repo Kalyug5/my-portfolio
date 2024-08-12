@@ -6,7 +6,7 @@
     "description": "A platform for user to keep track on their monthly and yearly expenses",
     "tags": ["css", "react"],
     "source_code": "https://github.com/Kalyug5/MyExpense-React.Js",
-    "demo":null
+    "demo": null
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "description": "A Websites where many different users can sign-up and can share there views on particular topic through posts and also can comment their opinion into others posts",
     "tags": ["next", "github", "prisma", "typeScript", "OAuth", "tailwind"],
     "source_code": "https://github.com/Kalyug5/Discussion-Web",
-    "demo":null
+    "demo": null
   },
   {
     "id": 3,
@@ -34,5 +34,13 @@
     "tags": ["next", "css-modules"],
     "source_code": "https://github.com/Kalyug5/My-Portfolio",
     "demo": "https://priyanshu-mishra-portfolio.vercel.app"
+  },
+  {
+    "id": 5,
+    "name": "TravelHat",
+    "image": "/TravelHat.png",
+    "description": "A travel planning application that allows users to plan their trips by generating personalized Iterenary",
+    "tags": ["react", "go", "mongodb"],
+    "demo": "https://travelhat.vercel.app/"
   }
 ]
