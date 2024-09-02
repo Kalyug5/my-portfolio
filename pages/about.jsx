@@ -58,7 +58,7 @@ const AboutPage = () => {
       </div>
       <a
         className={styles.resume_a}
-        href="https://drive.google.com/file/d/1Im32ImypNPHZiYf6jN6A5z_Xm1VFxdAp/view?usp=sharing"
+        href="https://drive.google.com/file/d/1lf5AsHVJ6Q265-q8K92GrjojD1FR1AJi/view?usp=sharing"
         target="_blank"
       >
         <p className={styles.resume}>My Resume!!</p>
