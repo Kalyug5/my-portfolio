@@ -42,5 +42,13 @@
     "description": "A travel planning application that allows users to plan their trips by generating personalized Iterenary",
     "tags": ["react", "go", "mongodb"],
     "demo": "https://travelhat.vercel.app/"
+  },
+  {
+    "id": 6,
+    "name": "Jobify",
+    "image": "/Jobify.png",
+    "description": "A job search application that allows users to search for jobs based on their skills and intrests",
+    "tags": ["react", "node", "mongodb", "redux"],
+    "demo": "https://jobify-tawny.vercel.app/"
   }
 ]
